@@ -1,5 +1,3 @@
-Sure! Here's a sample `README.md` file for your GitHub repository:
-
 ```markdown
 # Customer Segmentation using KMeans Clustering
 
